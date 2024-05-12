@@ -42,3 +42,28 @@ h1.modal-title{
 	margin-bottom: 20px;
 	width: 84%;
 }
+
+.footerImg{
+	padding: 10px;
+	width: 75%;
+}
+.socialWrapper{
+	margin: auto;
+}
+.fab{
+	margin: 10px;
+}
+
+.fa-facebook-square{
+	color: #3b5998;
+}
+.fa-google-plus-square{
+	color: #c32f10;
+}
+.fa-instagram-square{
+	color: #ffffff;
+}
+
+.fa-tiktok{
+	color: #0078ff;
+}
